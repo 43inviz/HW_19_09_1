@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SysProg\HW_19_09\bin\Debug\net8.0\HW_19_09.exe
+C:\Users\User\source\repos\SysProg\HW_19_09\bin\Debug\net8.0\HW_19_09.deps.json
+C:\Users\User\source\repos\SysProg\HW_19_09\bin\Debug\net8.0\HW_19_09.runtimeconfig.json
+C:\Users\User\source\repos\SysProg\HW_19_09\bin\Debug\net8.0\HW_19_09.dll
+C:\Users\User\source\repos\SysProg\HW_19_09\bin\Debug\net8.0\HW_19_09.pdb
+C:\Users\User\source\repos\SysProg\HW_19_09\obj\Debug\net8.0\HW_19_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SysProg\HW_19_09\obj\Debug\net8.0\HW_19_09.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SysProg\HW_19_09\obj\Debug\net8.0\HW_19_09.AssemblyInfo.cs
+C:\Users\User\source\repos\SysProg\HW_19_09\obj\Debug\net8.0\HW_19_09.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SysProg\HW_19_09\obj\Debug\net8.0\HW_19_09.sourcelink.json
+C:\Users\User\source\repos\SysProg\HW_19_09\obj\Debug\net8.0\HW_19_09.dll
+C:\Users\User\source\repos\SysProg\HW_19_09\obj\Debug\net8.0\refint\HW_19_09.dll
+C:\Users\User\source\repos\SysProg\HW_19_09\obj\Debug\net8.0\HW_19_09.pdb
+C:\Users\User\source\repos\SysProg\HW_19_09\obj\Debug\net8.0\HW_19_09.genruntimeconfig.cache
+C:\Users\User\source\repos\SysProg\HW_19_09\obj\Debug\net8.0\ref\HW_19_09.dll
